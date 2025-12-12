@@ -23,10 +23,7 @@
 
 > **注**：如果 icoding 出现类似于 `undefined%`，说明有可能是 icoding 的问题，目前我只能想到等一段时间再交，才有可能解决问题
 
-
-### lab1
-
-<details>
+<details> <summary>lab1</summary>
 
 - **提交的文件**
 
@@ -57,7 +54,7 @@
 
 </details>
 
-### lab2
+<details> <summary>lab2</summary>
 
 - **提交的文件**
 
@@ -88,8 +85,10 @@
     - **命令**
 
       - `./parser < test.c`
+     
+</details>
 
-### lab3
+<details> <summary>lab3</summary>
 
 - **提交的文件**
 
@@ -121,7 +120,9 @@
 
       - `./ast < test.c`
 
-### lab4
+</details>
+
+<details> <summary>lab4</summary>
 
 - **提交的文件**
 
@@ -152,6 +153,8 @@
         - `./calc < test.c`
 
         - 其中 `test.c` 就是要测试的代码，可以自己写或用 `lab4-example`  和 `lab4-test_example` 里的样例来测试，如 `./calc < lab4-example/00.c`
+
+</details>
 
 
 
