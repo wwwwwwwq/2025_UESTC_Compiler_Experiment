@@ -1,4 +1,6 @@
-<details> <summary><h3>前言</h3></summary>
+### 前言
+
+<details> <summary> (点击展开) </summary>
 
 > 四个实验参考这位前辈 [PLUS-WAVE](https://github.com/PLUS-WAVE/A-UESTCer-s-Code/tree/master/B.大二上/编译技术实验) 做的，先模了%%%
 >
@@ -25,7 +27,7 @@
 
 ---
 
-<h3>各实验详情</h3>
+### 各实验详情
 
 > 包含 **要提交的文件** 及 **如何进行本地测试**
 
@@ -163,6 +165,7 @@
         - 其中 `test.c` 就是要测试的代码，可以自己写或用 `lab4-example`  和 `lab4-test_example` 里的样例来测试，如 `./calc < lab4-example/00.c`
 
 </details>
+
 
 
 
